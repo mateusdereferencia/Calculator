@@ -1,0 +1,33 @@
+body {
+  font-family: fantasy;
+}
+#calculator {
+    width: 500px;
+    margin: 10 auto;
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #7f77f3;
+    padding: 50px;
+    border-radius: 1px;
+    box-shadow: 100px rgb(0, 4, 255);
+}
+
+p {
+    font-family: fantasy;
+}
+
+input[type=number],
+select {
+    width: 55%;
+    margin-top: 50px;
+}
+
+button {
+    width: 55%;
+    margin-top: 15px;
+}
+
+#result {
+    margin-top: 10px;
+}
